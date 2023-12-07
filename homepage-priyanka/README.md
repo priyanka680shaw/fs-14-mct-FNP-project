@@ -23,10 +23,12 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    bash
-   git clone [https://priyanka680shaw.github.io/fs-14-mct-FNP-project/homepage-priyanka/index.html](https://github.com/priyanka680shaw/fs-14-mct-FNP-project)
+   git clone [https://priyanka680shaw.github.io/fs-14-mct-FNP-project/homepage-priyanka/index.html]
 
 2. Open the index.html file in your preferred web browser to start using the Wynk Music clone.
 
+## Hoisted link
+ https://priyanka680shaw.github.io/fs-14-mct-FNP-project/homepage-priyanka/index.html
 
 ## Screenshots
 -------Responsives----
@@ -40,9 +42,6 @@ img here.............
 
 - Priyanka Shaw (Captain)
   - [Portfolio](https://github.com/priyanka680shaw/fs-14-mct-FNP-project)
-
-- All Contributors
-  - [Trending](linke here)
 
 ## Acknowledgments
 
