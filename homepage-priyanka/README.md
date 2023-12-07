@@ -15,74 +15,83 @@ A project that replicates the functionality and design of the Ferns N Petals (FN
 - CSS for styling and layout.
 - Bootstrap for Carousel slider.
 
+## Installation
 
-## Table of Contents
+To run this project locally, follow these steps:
 
-- [HTML Tags](#html-tags)
-- [CSS Styles](#css-styles)
+1. Clone the repository:
+   bash
+   git clone [https://bhumikakri.github.io/Wynk_Music/Home/index.html](https://github.com/Bhumikakri/Wynk_Music.git)
 
-## HTML Tags
+## Installation
 
-### `<html>`
+To run this project locally, follow these steps:
 
-The `<html>` tag is the root element of the HTML document. It encapsulates the entire HTML content.
+1. Clone the repository:
+   bash
+   git clone [https://github.com/priyanka680shaw/fs-14-mct-FNP-project.git](https://priyanka680shaw.github.io/MCT_PROJECT_FNP/)
 
-### `<head>`
+2. Open the index.html file in your preferred web browser to start using the FNP clone.
 
-The `<head>` tag contains meta-information about the HTML document, including the title, character set, and linked stylesheets.
 
-### `<body>`
+## Screenshots
+-------Responsives----
+  some responsive img here.....................
 
-The `<body>` tag encloses the content of the HTML document, such as text, images, links, and other elements.
+Same footer for all:-
 
-### `<div>`
+img here.............
 
-The `<div>` tag is a versatile container that is often used for grouping and styling other HTML elements.
+## Contributors
 
-<!-- Add more HTML tags as needed -->
+- Priyanka Shaw
+  - [Portfolio](https://priyanka680shaw.github.io/MCT_PROJECT_FNP/) (with navbar and footer)
+  
+- All Contributors
+  - [Trending](linke here)
 
-## CSS Styles
+## Acknowledgments
 
-### `body`
+- Special thanks to the [Bhumika] for their mentoring.
 
-Styles for the overall document body, controlling properties like background color, font styles, and layout.
+## Contact
 
-### `h1`, `h2`, `h3`, ...
+If you have any questions or suggestions regarding this project, don't hesitate to reach out to us:
 
-Styles for heading elements, specifying properties such as font size, color, and margin.
+FNP Team
+here details of fnp team.................
 
-### `p`
+We're here to assist you and appreciate your feedback!
 
-Styles for paragraph elements, controlling properties like margin, line height, and text alignment.
+2. Open the index.html file in your preferred web browser to start using the FNB clone.
 
-### `.class-name`
 
-Styles for elements with a specific class, allowing for targeted styling across multiple elements.
+## Screenshots
+-------Responsives----
+  some responsive img here.....................
 
-<!-- Add more CSS styles as needed -->
+Same footer for all:-
 
-## Usage Examples
+img here.............
 
-Provide brief usage examples to illustrate how some of the key HTML and CSS elements are used in your project.
+## Contributors
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Project Title</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-        <h1>Welcome to My Project</h1>
-    </header>
-    <section>
-        <p>This is a sample section of your project.</p>
-    </section>
-    <footer>
-        <p>&copy; 2023 Your Name</p>
-    </footer>
-</body>
-</html>
+- Priyanka Shaw
+  - [Portfolio](https://priyanka680shaw.github.io/MCT_PROJECT_FNP/) (with navbar and footer)
+  
+- All Contributors
+  - [Trending](linke here)
+
+## Acknowledgments
+
+- Special thanks to the [mentor name] for their mentoring.
+- [educator name] for her continuous doubt support.
+
+## Contact
+
+If you have any questions or suggestions regarding this project, don't hesitate to reach out to us:
+
+FNP Team
+here details of fnp team.................
+
+We're here to assist you and appreciate your feedback!
