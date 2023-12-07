@@ -14,15 +14,7 @@ A project that replicates the functionality and design of the Ferns N Petals (FN
 - HTML for structuring the web pages.
 - CSS for styling and layout.
 - Bootstrap for Carousel slider.
-
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   bash
-   git clone [https://bhumikakri.github.io/Wynk_Music/Home/index.html](https://github.com/Bhumikakri/Wynk_Music.git)
-
+- 
 ## Installation
 
 To run this project locally, follow these steps:
