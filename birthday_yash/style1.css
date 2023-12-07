@@ -123,6 +123,14 @@
 
 }
 
+.links a:hover{
+    color: orange;
+    border-bottom: 3px solid;
+    gap:30px;
+    border-width: 5px;
+ 
+ }
+
 .head{
     height: 1000px;
     width: 1000px;
@@ -150,7 +158,7 @@ img{
     padding: 10px;
 }
 .sidebar {
-    position: absolute;
+    position: fixed;
     height: 1500px;
     background-color: white;
     width: 350px; 
