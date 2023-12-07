@@ -26,7 +26,10 @@ To run this project locally, follow these steps:
 
 2. Open the index.html file in your preferred web browser to start using the FNP clone.
 
+## Acknowledgments
 
+- Special thanks to the Bhumika for their mentoring.
+  
 ## Screenshots
 -------Responsives----
   some responsive img here.....................
