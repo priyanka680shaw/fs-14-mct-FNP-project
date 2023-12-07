@@ -150,7 +150,7 @@ img{
     padding: 10px;
 }
 .sidebar {
-    position: absolute;
+    position: fixed;
     height: 1500px;
     background-color: white;
     width: 350px; 
