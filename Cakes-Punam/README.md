@@ -59,19 +59,19 @@ Google Material Icons for additional icons
 
 ## Learning and Insights:
 
-Responsive Web Design:
+### Responsive Web Design:
 Made sure websites work well on all devices.
 
-Browser Tools for Debugging:
+### Browser Tools for Debugging:
 Used browser tools to find and fix issues in the code.
 
-Relative Units for Responsive Pages:
+### Relative Units for Responsive Pages:
 Used relative units to ensure pages look good on different screen sizes.
 
-Clean Code with HTML, CSS:
+### Clean Code with HTML, CSS:
 Emphasized writing organized and clear code for interactive and appealing websites.
 
-GitHub Learning:
+### GitHub Learning:
 Learned how to use GitHub for collaboration in projects.
 
 Building Confidence as a Web Developer:
