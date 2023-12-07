@@ -23,6 +23,9 @@ p{
     font-size: 16px;
 }
 
+h3{
+    margin: 0px !important;
+}
 header{
     width: 100vw;
     position: fixed;
@@ -223,6 +226,7 @@ nav{
 .endbox>p{
     font-size: 13px;
     font-weight: 400;
+    white-space: nowrap;
 }
 .endbox:hover{
     cursor: pointer;
@@ -234,11 +238,12 @@ nav{
     width: 100%;
     margin: auto;
     display: flex;
-    padding-left: 50px;
+     padding-left: 50px;
     background-color: rgb(242,242,242);
     box-shadow: 0px 2px 3px 0px rgba(82, 81, 81, 0.5);
     z-index: 1;
-    position: relative;
+    /* position: relative; */
+    overflow: hidden;
 }
 
 .sub-categories{
@@ -292,10 +297,10 @@ nav{
 }
 
 .img-section1>a>figure{
-    width: 150px;
-    height: 150px;
+    width: 80%;
+    /* height: 150px; */
     background-color: #555555;
-    margin: 25px 0px;
+    margin: 25px 5px;
     border-radius: 30%;
 }
 
@@ -371,7 +376,9 @@ nav{
     padding: 15px 10px;
     background-color: rgb(128,128,0);
 }
-
+.inner-text{
+    padding: 4px;
+}
 .inner-text>h3{
     font-size: 18px !important;
     text-transform: capitalize;
@@ -541,8 +548,8 @@ nav{
 .main-img-placed-sec11{
     border-radius: 50%;
     background-color: #555555;
-    height: 300px;
-    width: 300px;
+    /* height: 300px; */
+    width: 90%;
     margin: 30px 0px 20px 0px;
     box-shadow: 0px 1px 3px 5px rgb(173, 160, 160); 
 }
@@ -553,8 +560,6 @@ nav{
 .main-img-placed-sec11>img{
     width: 100%;
     border-radius: 50%;
-    height: 300px;
-    width: 300px;
 }
 
 .sub-heading-sec11{
@@ -771,4 +776,12 @@ nav{
 
 .chat-icon-user>img:hover{
     cursor: pointer;
+}
+
+
+/***************************/
+@media screen and (max-width:768px){
+    .front{
+        flex-wrap: wrap;
+    }
 }
