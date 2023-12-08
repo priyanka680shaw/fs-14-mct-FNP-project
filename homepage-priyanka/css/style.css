@@ -826,6 +826,68 @@ nav{
     }
 }
 
-@media screen and(max-width:){
-    
-}
+@media screen and (max-width: 426px){
+    .heading-button{
+        flex-direction: column;
+        align-items: start;
+    }
+
+    .heading-button>.view {
+        margin-top: 20px;
+    }
+
+    .anniversary-box>.img-outer-part-p {
+        width: 100vw;
+        flex-direction: column;
+        margin-left: 50px;
+    }
+
+    .img-inner-con {
+        margin-top: 20px;
+    }
+
+    .sec11-img-containe{
+        flex-wrap: wrap;
+        margin-left: 30px;
+    }
+
+    .coustomer-service{
+        flex-wrap: wrap;
+    }
+    .info-about {
+        flex-wrap: wrap;
+    justify-content: center;
+    }
+
+    .inner-card {
+        /* width: auto;
+        height: auto; */
+        /* flex-direction: column; */
+    }
+
+    .chat-icon-user{
+        display: none;
+    }
+
+    .payment{
+        display: none;
+    }
+
+    .input_icon_wrapper{
+        display: none;
+    }
+
+    .img-sec-start1{
+        flex-direction: column;
+    }
+
+    .img-section1>a>p{
+        font-size: 24px ;
+        font-weight: bold;
+    }
+
+    .categories{
+        overflow: scroll;
+    }
+}  
+
