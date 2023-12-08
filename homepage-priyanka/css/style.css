@@ -118,6 +118,7 @@ nav{
 
 .logo{
     width: 200px;
+    margin-right: 40px;
 }
 
 .logo>img{
@@ -823,4 +824,8 @@ nav{
     .sub-categories{
         padding: 13px 7px;
     }
+}
+
+@media screen and(max-width:){
+    
 }
